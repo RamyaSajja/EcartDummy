@@ -1,0 +1,17 @@
+ [
+        {    
+             "image":"assets/Appleiphone11pro.webp",      
+            "title": "Apple iPhone 11 Pro",
+            "content": "Apple iPhone 11 Pro (256GB)"
+        },
+        {    
+            "image":"assets/oppo.jpeg",       
+            "title": "OPPO k1",
+            "content": "Oppo K1 (Opal Black, 6GB RAM, Super AMOLED Display"
+        },
+        {    
+            "image":"assets/vivo.jpeg",       
+            "title":"VIVO v17",
+            "content":"Vivo v17 (Opal Black, 6GB RAM, Super AMOLED Display, 128GB Storage, 6000mAH Battery)"
+        }
+    ]
